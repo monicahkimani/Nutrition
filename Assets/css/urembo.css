@@ -1,0 +1,25 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+    margin: 15px;
+}
+td,th{
+    border: 4px solid #800013;
+    padding: 15px;
+
+}
+th{
+    font-family: "Franklin Gothic Book";
+    font-size: 20px;
+    color: chartreuse;
+
+}
+h2{
+    color: darkorange;
+    text-align: center;
+    font-size: 40px;
+
+}
+tr:nth-child(even){
+    background-color: aqua;
+}

@@ -1,0 +1,39 @@
+.fruits{
+border: 3px solid purple;
+    text-align: center;
+    font-family: "Arial Narrow";
+    background-color: #800013;
+    margin: 20px;
+    padding: 20px;
+    font-size: 30px;
+}
+.cars{
+    border: 5px dotted chartreuse;
+    text-align:right;
+    background-color: chocolate;
+    font-family: "Bodoni MT Black";
+    font-size: x-large;
+    margin: 72px;
+    padding: 72px;
+}
+.FRUITS{
+    border: 20px dotted red;
+    text-align:left;
+    background-color: darkgreen;
+    font-family: "Bodoni MT Black";
+    font-size: xx-small;
+    margin: 60px;
+    padding: 60px;
+}
+#computers{
+    border: 20px solid fuchsia;
+    text-align:right;
+    background-color: indianred;
+    font-family: "fantasy";
+    font-size: large;
+    margin: 20px;
+    padding: 20px;
+
+
+}
+
